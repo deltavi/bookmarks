@@ -4,6 +4,7 @@
 
 #### Online compiler:  [ideone.com](https://ideone.com)
 #### Log4j conversion pattern online tester:  [log4jtester.com](http://log4jtester.com)
+#### Markdown editor: [jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/)
 
 ## Graphics
 
