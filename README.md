@@ -11,3 +11,4 @@
 
 ## GitHub
 #### Emoji cheat sheet for GitHub: [webpagefx.com/tools/emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+#### Mastering markdown: [guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
