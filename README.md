@@ -8,3 +8,6 @@
 ## Graphics
 
 #### Online photo editor:  [pixlr.com/editor](https://pixlr.com/editor/)
+
+## GitHub
+#### Emoji cheat sheet for GitHub: [webpagefx.com/tools/emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
