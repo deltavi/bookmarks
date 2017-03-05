@@ -10,3 +10,6 @@
 * GitHub Pages: [guides.github.com/features/pages/](https://guides.github.com/features/pages/)
 * GitHub slate theme: [github.com/pages-themes/slate](https://github.com/pages-themes/slate)
 * Customizing CSS and HTML in your Jekyll theme: [help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
+
+## Mozilla Firefox
+* WebExtensions: [developer.mozilla.org](https://developer.mozilla.org/it/Add-ons/WebExtensions)
