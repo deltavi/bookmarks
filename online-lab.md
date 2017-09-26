@@ -9,6 +9,7 @@
 * Markdown editor: [jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/)
 * Regular expression tester: [regex101.com](https://regex101.com/)
 * JSON lint: [jsonlint.com](http://jsonlint.com/)
+* SPARQLer Query Validator: [sparql.org](http://www.sparql.org/query-validator.html)
 
 ## Database
 * MySQL to MongoDB query translator: [querymongo.com](http://www.querymongo.com/)
