@@ -20,3 +20,6 @@
 * Photo editor: [pixlr.com/editor](https://pixlr.com/editor/)
 * SVG Font Machine: [glyphter.com](https://glyphter.com/)
 * Mockups: [balsamiq.com](https://webdemo.balsamiq.com/)
+
+## Documentation
+* Unicode Symbol: [fileformat.info](http://www.fileformat.info/info/unicode/category/So/list.htm)
