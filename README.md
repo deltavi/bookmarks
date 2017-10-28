@@ -1,3 +1,7 @@
+# Favorite
+
+* Favorite symbols: [favorite-symbols.md](favorite-symbols.md)
+
 # Bookmarks
 
 ## Online lab
