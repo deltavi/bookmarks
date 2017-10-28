@@ -1,1 +1,3 @@
-#Favorite Symbols
+# Favorite Symbols
+
+✓ ➕ ➖
