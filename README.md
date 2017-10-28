@@ -1,4 +1,4 @@
-# Favorite
+# Favorites
 
 * Favorite symbols: [favorite-symbols.md](favorite-symbols.md)
 
