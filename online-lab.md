@@ -22,5 +22,5 @@
 * Mockups: [moqups.com](https://app.moqups.com)
 
 ## Documentation
-* ShareLaTeX: [sharelatex.com](https://www.sharelatex.com/)
+* LaTeX: [sharelatex.com](https://www.sharelatex.com/)
 * Unicode Symbol: [fileformat.info](http://www.fileformat.info/info/unicode/category/So/list.htm)
