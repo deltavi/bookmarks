@@ -17,3 +17,7 @@
 
 ## Mozilla Firefox
 * WebExtensions: [developer.mozilla.org](https://developer.mozilla.org/it/Add-ons/WebExtensions)
+
+## NPM
+* Compare package download counts over time:[npmtrends.com](http://www.npmtrends.com)
+* power-assert vs expect.js vs chai vs should: [npmtrends.com](http://www.npmtrends.com/power-assert-vs-expect.js-vs-chai-vs-should)
