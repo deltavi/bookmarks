@@ -17,7 +17,7 @@
 
 ## Graphics
 
-* Photo editor: [pixlr.com/editor](https://pixlr.com/editor/)
+* Photo editor: [pixlr.com/e](https://pixlr.com/e/)
 * SVG Font Machine: [glyphter.com](https://glyphter.com/)
 * Mockups: [moqups.com](https://app.moqups.com)
 
