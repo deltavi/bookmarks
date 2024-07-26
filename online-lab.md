@@ -18,6 +18,7 @@
 ## Graphics
 
 * Photo editor: [pixlr.com/e](https://pixlr.com/e/)
+* Photopea: [photopea.com](https://www.photopea.com/)
 * Icon editor: [xiconeditor.com](http://www.xiconeditor.com/)
 * SVG Font Machine: [glyphter.com](https://glyphter.com/)
 * Mockups: [moqups.com](https://app.moqups.com)
